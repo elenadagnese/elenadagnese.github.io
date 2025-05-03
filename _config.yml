@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_pic.png"
+  avatar           : "images/profile_pic"
   name             : "Elena D'Agnese"
   pronouns         : "She/her"  
   bio              : "Ph.D. student - DIN Life Course Research"
   location         : "Pisa - Firenze"
-  employer         : "Università di Pisa - Università di Firenze"
+  employer         : "Università di Pisa \\ Università di Firenze"
   uri              : # URL
   email            : "e.dagnese@studenti.unipi.it" 
 
