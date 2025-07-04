@@ -1,14 +1,13 @@
----
 layout: single
-title: "Research"
-author_profile: true
 permalink: /publications/
 author_profile: true
+title: "Research"
+redirect_from:
+  - /publications
 header:
   overlay_image: /images/header_1.jpeg
   overlay_filter: 0.3
 ---
-
 
 **Preprints**
 - Lucchini L., Marziano V., et al., “Post-pandemic social contacts in Italy: implications for social distancing measures on in-person school and work attendance”
