@@ -5,7 +5,7 @@ author_profile: true
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: images/header_1.jpeg
+  overlay_image: /images/header_1.jpeg
   overlay_filter: 0.3
 ---
 
