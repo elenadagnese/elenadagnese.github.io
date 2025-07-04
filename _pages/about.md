@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "No man is an island, entire of itself (_John Donne_)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +7,8 @@ redirect_from:
 header:
   overlay_image: /images/header_2.jpeg
 ---
+
+**"No man is an island, entire of itself" (_John Donne_)**
 
 Hello there!
 
