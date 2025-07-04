@@ -1,7 +1,6 @@
 ---
 permalink: /
 author_profile: true
-title: "Home"
 layout: single
 redirect_from: 
   - /about/
@@ -9,6 +8,7 @@ redirect_from:
 header:
   overlay_image: header_2.jpeg
   overlay_filter: 0.3
+  title: "Home"
 ---
 
 **"No man is an island, entire of itself" (_John Donne_)**
