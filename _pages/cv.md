@@ -6,7 +6,7 @@ title: "CV"
 redirect_from:
   - /resume
 header:
-  overlay_image: /images/header_3.jpeg
+  overlay_image: header_3.jpeg
   overlay_filter: 0.3
 ---
 
