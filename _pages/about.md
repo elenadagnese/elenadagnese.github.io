@@ -2,6 +2,7 @@
 permalink: /
 author_profile: true
 layout: single
+nav_exclude: true
 redirect_from: 
   - /about/
   - /about.html
