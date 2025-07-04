@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /publications
 header:
-  overlay_image: header_1.jpeg
+  overlay_image: /images/header_1.jpeg
   overlay_filter: 0.3
   title: "Research"
 ---
