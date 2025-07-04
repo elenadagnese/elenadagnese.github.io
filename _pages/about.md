@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 title: "Home"
-layout: archive
+layout: single
 redirect_from: 
   - /about/
   - /about.html
