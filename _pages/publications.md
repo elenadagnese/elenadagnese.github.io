@@ -6,7 +6,7 @@ title: "Research"
 redirect_from:
   - /publications
 header:
-  overlay_image: /images/header_1.jpeg
+  overlay_image: header_1.jpeg
   overlay_filter: 0.3
 ---
 
