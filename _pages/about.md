@@ -1,7 +1,8 @@
 ---
 permalink: /
 author_profile: true
-layout: single
+title: "Home"
+layout: archive
 redirect_from: 
   - /about/
   - /about.html
