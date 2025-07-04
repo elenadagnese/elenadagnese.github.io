@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: images/header_2.jpeg
+  overlay_filter: 0.3
 ---
 
 **"No man is an island, entire of itself" (_John Donne_)**
